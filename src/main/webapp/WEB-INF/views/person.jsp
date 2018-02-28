@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1>
-	Add a Person Details Changed 
+	Add a Person Details Changed remote
 </h1>
 
 <c:url var="addAction" value="/person/add" ></c:url>
