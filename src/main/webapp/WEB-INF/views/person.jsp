@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1>
-	Add a Person Details
+	Add a Person Details Test
 </h1>
 
 <c:url var="addAction" value="/person/add" ></c:url>
